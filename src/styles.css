@@ -1,0 +1,9 @@
+@import "scribeva-editor/styles.css";
+
+.scribeva-react {
+  min-width: 0;
+}
+
+.scribeva-react > .scribeva {
+  width: 100%;
+}
