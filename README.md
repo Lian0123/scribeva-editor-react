@@ -88,10 +88,6 @@ npm run check
 npm pack --dry-run
 ```
 
-The demo in `demo/` is both an integration example and the package website.
-The package supports React 18 and 19 and requires Node.js 18 or newer for its
-tooling.
-
 ## License
 
 MIT

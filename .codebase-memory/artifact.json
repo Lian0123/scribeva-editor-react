@@ -1,11 +1,11 @@
 {
     "schema_version": 2,
-    "commit": "",
-    "indexed_at": "2026-07-19T17:27:52Z",
+    "commit": "e4c27f3ee08c9d2c1c916bcb5cc632ac08af7922",
+    "indexed_at": "2026-07-22T15:40:08Z",
     "project": "scribeva-editor-react",
-    "nodes": 83,
-    "edges": 111,
+    "nodes": 93,
+    "edges": 120,
     "original_size": 1769472,
-    "compressed_size": 17296,
+    "compressed_size": 18667,
     "compression_level": 3
 }
