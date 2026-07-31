@@ -1,6 +1,6 @@
 {
   "name": "scribeva-editor-react",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Official React bindings for the Scribeva enterprise HTML editor.",
   "keywords": [
     "react",
