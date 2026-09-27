@@ -59,7 +59,7 @@
     "jsdom": "^24.1.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "scribeva-editor": "^0.0.4",
+    "scribeva-editor": "^0.0.5",
     "typescript": "^5.8.3",
     "vite": "^6.4.3",
     "vitest": "^3.2.7"
